@@ -1,2 +1,5 @@
 testando atualização
 a
+b
+c
+c
